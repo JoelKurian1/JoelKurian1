@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoelKurian1
 - 👀 I’m interested in Computer Science, Badminton, and whats for dinner:)
-- 🌱 I’m currently learning Alevel Computer Science, Mathematics, and Physics
+- 🌱 I’m currently learning A Level Computer Science, Mathematics, and Physics
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me -- you can't
 - ⚡ Fun fact: McAfee is invincible :(
